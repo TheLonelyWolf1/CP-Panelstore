@@ -27,9 +27,10 @@ To contribute PanelConfigurations, you'll have to do the following steps:
 For easier navigation we require a certain layout of the files.
 
 The Layout is as follows:
-- Folder with the name of your Panel
-  - images *- You should add Pictures of your Panel in here*
-  - files *- Here you can add the .yml-files of your panel configuration*
+- Inside folder "panels"
+  - Folder with the name of your Panel
+    - images *- You should add Pictures of your Panel in here*
+    - files *- Here you can add the .yml-files of your panel configuration*
 
 # "Original" Panels
 The Panels should be their own original Idea and not an exact copy of another panel with only small changes.
