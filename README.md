@@ -1,4 +1,4 @@
-![cpBanner panelstore](https://user-images.githubusercontent.com/42873246/229069410-21864cc7-e8bf-4933-a3a0-634497a62fe7.png)
+![cpBanner panelstore](https://user-images.githubusercontent.com/42873246/229133954-1e8060d1-47d8-471b-9c1e-f501d4ece1f5.png)
 
 # About
 This Repo is meant to be a Collection of PanelConfigurations for the MC Plugin [CommandPanels](https://www.spigotmc.org/resources/commandpanels.67788/).
@@ -27,6 +27,7 @@ To contribute PanelConfigurations, you'll have to do the following steps:
 For easier navigation we require a certain layout of the files.
 
 The Layout is as follows:
+
 - Inside folder "panels"
   - Folder with the name of your Panel
     - images *- You should add Pictures of your Panel in here*
